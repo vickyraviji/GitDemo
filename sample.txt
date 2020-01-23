@@ -3,3 +3,16 @@ Hello Folks!
 Hello Athenista!
 
 Ganesh kumar here
+
+
+Bitbucket or Git
+    create branch
+        create directly or copy from master/dev
+Local 
+    git clone <git path url>
+    git pull
+    (do chnages )
+    git commit (local commit )
+    git push (local chnages move to cloud)
+    git merge
+    git conflict
